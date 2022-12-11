@@ -30,5 +30,3 @@ A way to deploy [Mega.nz-Bot](https://github.com/Itz-fork/Mega.nz-Bot) to Heroku
 
 **Done ✅!**
 
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/D6ueVa?referralCode=_4oAwx)
