@@ -30,3 +30,5 @@ A way to deploy [Mega.nz-Bot](https://github.com/Itz-fork/Mega.nz-Bot) to Heroku
 
 **Done ✅!**
 
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?...)
+
