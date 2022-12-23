@@ -8,7 +8,7 @@ echo "
         █▄█ █▄█  █
 
 
-Copyright (c) 2021 Itz-fork | @NexaBotsUpdates
+Copyright (c) 2021 Itz-fork
 "
 
 function show_error_msg() {
